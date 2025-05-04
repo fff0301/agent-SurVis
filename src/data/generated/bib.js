@@ -4,7 +4,6 @@
         "booktitle": "AAMAS",
         "cdate": "1704067200000",
         "crossref": "conf/atal/2024",
-        "doi": "https://dl.acm.org/doi/10.5555/3635637.3662942",
         "pages": "880--888",
         "title": "BDI Agents in Natural Language Environments",
         "type": "inproceedings",
